@@ -32,5 +32,5 @@ The dataset contains 6,362,620 records with 10 features.
 
 ## 👨‍💻 Author
 - Varun Kumar Parawa  
-- [GitHub](https://github.com/varunkumar) | [LinkedIn](https://linkedin.com/in/varunkumar)
+- [GitHub](https://github.com/varunkumarparawa) | [LinkedIn](https://www.linkedin.com/in/varun-kumar-parawa-61b26828b/)
 
